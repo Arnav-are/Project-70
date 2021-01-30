@@ -1,0 +1,41 @@
+html{
+	scroll-behavior: smooth;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie-head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+body{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/back_pic/05/12/61/50599a3b340d5da.jpg);
+    background-attachment: fixed;
+    background-size: cover;	
+}
+.environment_li {
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img {
+    border-radius: 25px;
+}
+
+.environment_li p {
+    margin-top: 10px;
+}
